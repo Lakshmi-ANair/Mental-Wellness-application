@@ -24,7 +24,7 @@ function Dashboard() {
       <h2>Dashboard</h2>
       <h3>Mood Statistics</h3>
       {moodStats.length === 0 ? (
-        <p>No mood data available yet. Add some journal entries!</p>
+        <p>No mood data available yet. Add some journal entries !!!</p>
       ) : (
         <ResponsiveContainer width="100%" height={300}>
           <BarChart

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mental Wellness Application
 
 This is a mental wellness application designed to provide users with an AI chatbot, a journal for mood tracking, and a dashboard to visualize progress.
@@ -122,3 +123,6 @@ The following API endpoints are available:
 - Develop detailed frontend UI for chat, journal, and dashboard.
 - Implement safety layer for AI responses.
 - Deployment configurations for Vercel/Netlify and Render/Heroku.
+=======
+# Mental-Wellness-application
+>>>>>>> origin/main
